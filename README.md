@@ -14,7 +14,7 @@ The list of AU codes involved in MEs in the MMHE dataset, along with their corre
 
 ![image](pictures/Table1.jpg)
 
-In this section, we perform a statistical analysis of the annotated samples. The results, presented in Fig. 2, highlight four key characteristics: (a) the distribution of seven basic discrete emotions; (b) the distribution of three composite emotions (``Negative,'' ``Positive,'' and ``Surprise''); (c) the dataset size and participant gender composition; and (d) a comparison of mean ME durations and their standard deviations across benchmark datasets. 
+In this section, we perform a statistical analysis of the annotated samples. The results, presented in Fig. 2, highlight four key characteristics: (a) the distribution of seven basic discrete emotions; (b) the distribution of three composite emotions ("Negative," "Positive," and "Surprise"); (c) the dataset size and participant gender composition; and (d) a comparison of mean ME durations and their standard deviations across benchmark datasets. 
 
 ![image](pictures/Data_distribution.jpg)
 
